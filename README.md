@@ -1,5 +1,5 @@
 # InjectDll
-*A library for injecting dll files into processes*
+*An AutoHotKey library for injecting dll files into processes*
 
 **Usage:**
 
