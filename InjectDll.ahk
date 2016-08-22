@@ -1,8 +1,9 @@
-;=====================================================================
-;Requires AutoHotKey ANSI
-;Written by Fooly-Cooly: https://github.com/Fooly-Cooly
-;Licensed under GPL v3:  https://www.gnu.org/licenses/gpl-3.0.txt
-;=====================================================================
+;=================================================================================
+;	InjectDll - A AutoHotkey library for injecting dll files into a process
+;	Copyright (C) 2016  Brian Baker https://github.com/Fooly-Cooly
+;	Licensed with GPL v3 https://www.gnu.org/licenses/gpl-3.0.txt
+;	Requires AutoHotKey ANSI
+;=================================================================================
 
 Inject_CleanUp(pMsg, pHandle, pLibrary)
 {
