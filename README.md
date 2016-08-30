@@ -1,11 +1,10 @@
 ## InjectDll - An AutoHotKey library for injecting dll files into processes
 
-**Example:**
+**Example: Requires AutoHotKey ANSI (See History)**
   ```AutoHotKey
   #include InjectDll.ahk
   Inject_Dll(pid, dllPath)
   ```
-  Requires AutoHotKey ANSI (See History)
 
 **History:**
 
