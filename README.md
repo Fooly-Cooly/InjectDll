@@ -1,9 +1,11 @@
-# InjectDll
-*An AutoHotKey library for injecting dll files into processes*
+## InjectDll - An AutoHotKey library for injecting dll files into processes
 
-**Usage:**
-
-  Add "#include path\to\InjectDll.ahk" to your AHK project's header from there you can use Inject_Dll(pid, dllPath). It'll only be successful using the ANSI version of AHK. (See History)
+**Example:**
+  ```AutoHotKey
+  #include InjectDll.ahk
+  Inject_Dll(pid, dllPath)
+  ```
+  Requires AutoHotKey ANSI (See History)
 
 **History:**
 
